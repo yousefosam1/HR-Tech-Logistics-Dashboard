@@ -1,4 +1,4 @@
-HR Tech Logistics Dashboard 👥
+
 This project focuses on analyzing human resources data for 500 employees. My main goal was to visualize workforce distribution, experience levels, and demographic trends to support HR decision-making.
 
 What I Analyzed:
